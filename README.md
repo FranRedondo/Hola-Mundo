@@ -7,3 +7,5 @@ Santiago
 Nosotros somos el grupo computer team. 
 
 Los 3 somos de Boca Juniors
+
+Estudiamos en UTN San Rafael la tecnicatura universitaria en programacion
