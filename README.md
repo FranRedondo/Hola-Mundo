@@ -12,4 +12,4 @@ Estudiamos en UTN San Rafael la tecnicatura universitaria en programacion
 
 Nos gusta la programacion
 
-Añadimos una linea de texto
+Añadimos una linea de texto para clase 3
